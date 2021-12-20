@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\数据结构课设\连连看\连连看\源.cpp(25,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\数据结构课设\连连看\连连看\源.cpp(37,20): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  连连看.vcxproj -> C:\数据结构课设\连连看\Debug\连连看.exe

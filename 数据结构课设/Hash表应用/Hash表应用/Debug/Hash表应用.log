@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(88,31): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(110,31): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(115,31): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(118,20): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(189,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(221,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(258,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(270,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(279,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\数据结构课设\B-树应用\Hash表应用\Hash表应用\源.cpp(292,20): warning C4018: “<”: 有符号/无符号不匹配
+  Hash表应用.vcxproj -> C:\数据结构课设\B-树应用\Hash表应用\Debug\Hash表应用.exe
